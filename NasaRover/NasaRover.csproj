@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\netcoreapp3.1\NasaRover.AssemblyInfo.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="obj\NasaRover.csproj.nuget.dgspec.json" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="NasaRover.sln" />
+    <None Include="obj\Debug\netcoreapp3.1\NasaRover.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\NasaRover.assets.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\NasaRover.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\NasaRover.csproj.nuget.g.props" />
+    <None Include="obj\NasaRover.csproj.nuget.g.targets" />
+    <None Include="obj\project.nuget.cache" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="NasaRover\" />
+  </ItemGroup>
+
+</Project>
