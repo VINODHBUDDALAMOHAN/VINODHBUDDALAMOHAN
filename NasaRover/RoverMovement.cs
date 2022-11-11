@@ -131,12 +131,5 @@ namespace NasaRover
                 return ex.Message;
             }
         }
-        public override string ToString()
-        {
-            string printedRoverPosition = string.Format("{0} {1} {2}", x + " " + y + " " + direction);
-
-            return printedRoverPosition;
-
-        }
     }
 }
