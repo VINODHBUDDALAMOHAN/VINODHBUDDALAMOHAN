@@ -123,13 +123,11 @@ namespace NasaRover
                             throw new ArgumentException(string.Format("Invalid value: {0}", direction));
                     }
                 }
-                // string res = GoForward(direction);
                 return string.Format(x + " " + y + " " + direction);
             }
             catch (Exception ex)
             {
                 return ex.Message;
             }
-        }
     }
 }
