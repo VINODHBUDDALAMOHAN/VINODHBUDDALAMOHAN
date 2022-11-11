@@ -129,5 +129,6 @@ namespace NasaRover
             {
                 return ex.Message;
             }
+        }        
     }
 }
