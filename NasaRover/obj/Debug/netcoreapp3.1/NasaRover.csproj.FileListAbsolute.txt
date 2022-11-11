@@ -1,0 +1,13 @@
+C:\Users\vinodh.buddala\Desktop\newtest\NasaRover\obj\Debug\netcoreapp3.1\NasaRover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinodh.buddala\Desktop\newtest\NasaRover\obj\Debug\netcoreapp3.1\NasaRover.AssemblyInfoInputs.cache
+C:\Users\vinodh.buddala\Desktop\newtest\NasaRover\obj\Debug\netcoreapp3.1\NasaRover.AssemblyInfo.cs
+C:\Users\vinodh.buddala\Desktop\newtest\NasaRover\obj\Debug\netcoreapp3.1\NasaRover.csproj.CoreCompileInputs.cache
+C:\Users\vinodh.buddala\Desktop\newtest\NasaRover\bin\Debug\netcoreapp3.1\NasaRover.exe
+C:\Users\vinodh.buddala\Desktop\newtest\NasaRover\bin\Debug\netcoreapp3.1\NasaRover.deps.json
+C:\Users\vinodh.buddala\Desktop\newtest\NasaRover\bin\Debug\netcoreapp3.1\NasaRover.runtimeconfig.json
+C:\Users\vinodh.buddala\Desktop\newtest\NasaRover\bin\Debug\netcoreapp3.1\NasaRover.runtimeconfig.dev.json
+C:\Users\vinodh.buddala\Desktop\newtest\NasaRover\bin\Debug\netcoreapp3.1\NasaRover.dll
+C:\Users\vinodh.buddala\Desktop\newtest\NasaRover\bin\Debug\netcoreapp3.1\NasaRover.pdb
+C:\Users\vinodh.buddala\Desktop\newtest\NasaRover\obj\Debug\netcoreapp3.1\NasaRover.dll
+C:\Users\vinodh.buddala\Desktop\newtest\NasaRover\obj\Debug\netcoreapp3.1\NasaRover.pdb
+C:\Users\vinodh.buddala\Desktop\newtest\NasaRover\obj\Debug\netcoreapp3.1\NasaRover.genruntimeconfig.cache

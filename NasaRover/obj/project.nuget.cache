@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HpLr6/GJ1+uFKdMwD1yQsoOMxWuC4K3Mkl3hhQDumOm2IKF/nwdPQeU8BYvwTiSV6atGm9aMmr2zEpabndrw9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinodh.buddala\\Desktop\\newtest\\NasaRover\\NasaRover.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinodh.buddala\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
