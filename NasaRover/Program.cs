@@ -1,4 +1,5 @@
 ﻿using System;
+using NasaRover;
 
 namespace NasaRover
 {
@@ -8,7 +9,8 @@ namespace NasaRover
         {
             Console.WriteLine("Rover position :");
             string roverPositionInput = Console.ReadLine();
-            RoverMovement roverMovement = new RoverMovement(roverPositionInput);
+            INasaRover nasaRover = new RoverMovementBao();
+            RoverMovement roverMovement = new RoverMovement(roverPositionInput, nasaRover);
             Console.WriteLine("Rover command :");
             string roverNavigation = Console.ReadLine();
             string res = roverMovement.Navigate(roverNavigation);

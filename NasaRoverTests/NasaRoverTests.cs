@@ -6,11 +6,12 @@ namespace NasaRoverTests
 {
     public class NasaRoverTests
     {
+        INasaRover nasaRover = new RoverMovementBao();
         [Fact]
         public void ScrollLeft()
         {
             //arrange
-            RoverMovement movement = new RoverMovement("1 2 N");
+            RoverMovement movement = new RoverMovement("1 2 N", nasaRover);
             //act
             movement.ScrollLeft();
             Console.WriteLine(movement.direction);
@@ -21,7 +22,7 @@ namespace NasaRoverTests
         public void ScrollRight()
         {
             //arrange
-            RoverMovement movement = new RoverMovement("1 2 N");
+            RoverMovement movement = new RoverMovement("1 2 N", nasaRover);
             //act
             movement.ScrollRight();
             //assert
@@ -31,7 +32,7 @@ namespace NasaRoverTests
         public void GoForward()
         {
             //arrange
-            RoverMovement movement = new RoverMovement("1 2 N");
+            RoverMovement movement = new RoverMovement("1 2 N", nasaRover);
             //act
             movement.GoForward();
             //assert
@@ -41,7 +42,7 @@ namespace NasaRoverTests
         public void Navigate()
         {
             //arrange
-            RoverMovement movement = new RoverMovement("1 2 N");
+            RoverMovement movement = new RoverMovement("1 2 N", nasaRover);
             //act
             movement.Navigate("LMLMLMLMM");
             Console.WriteLine(movement.direction);
